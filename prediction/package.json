@@ -1,0 +1,17 @@
+{
+  "name": "neural_network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^1.5.1",
+    "neural-data-normalizer": "^1.0.0",
+    "sequelize": "^4.32.1",
+    "synaptic": "^1.1.4"
+  }
+}
